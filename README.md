@@ -1,6 +1,6 @@
-## Olá, me chamo Igor Tosta!
+## Hi, My name is Igor Tosta!
 
-- 💻 Desenvolvedor FullStack
+- 💻 Software Engineer
 
 <div align="center">
   <a href="https://github.com/igorttosta">
@@ -10,7 +10,7 @@
   />
 </div>
 <br>
-Tecnologias que mais utilizo atualmente:
+My stack:
 <div style="display: inline_block"><br>
   <img align="center" alt="Javascript" height="50" width="60"
     src="https://github.com/igorttosta/igorttosta/assets/84591929/b5b9f3e0-4a1c-43d2-873d-49dba9d59068"
@@ -38,9 +38,9 @@ Tecnologias que mais utilizo atualmente:
   ##
  <div> 
 
-  Conecte-se comigo:
+  Connect with me:
 
-  <a href="https://www.linkedin.com/in/igor-tosta-878a39217/" target="_blank">
+  <a href="https://www.linkedin.com/in/matos-igor-tosta/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
     target="_blank">
   </a> 
