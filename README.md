@@ -1,47 +1,53 @@
-## Hi, My name is Igor Tosta!
+# 💫 About Me:
+👋 Hi, My name is Igor Tosta!
 
-- 💻 Software Engineer
+- 💻 Software Engineer with over 3 years of experience in fullstack development, backend systems, and microservices architecture. Passionate about solving complex challenges and delivering high-quality solutions.
+
+- 🚀 Skilled in building robust and scalable applications using modern technologies and best practices.
+
+- 🎯 Focused on enhancing user experience, improving system reliability, and maintaining code quality through testing and CI/CD processes.
+
+# 📊 GitHub Stats:
+<div align="center"><br>
+  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=igorttosta&theme=dark&hide_border=false" style="margin-right: 10px;"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorttosta&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="margin-left: 10px;"/>
+
+  <div style="display: inline_block"><br>
+    <img align="center" alt="JavaScript" height="50" width="60" 
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img align="center" alt="TypeScript" height="50" width="60" 
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+    <img align="center" alt="React" height="50" width="60" 
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="NextJS" height="50" width="60" 
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+    <img align="center" alt="NestJS" height="50" width="60" 
+        src="https://nestjs.com/img/logo-small.svg">
+    <img align="center" alt="NodeJS" height="50" width="60" 
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="Express.js" height="50" width="60" 
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+    <img align="center" alt="Java" height="50" width="60" 
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" alt="AWS" height="50" width="60" 
+        src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
+    <img align="center" alt="Azure" height="50" width="60" 
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+    <img align="center" alt="Vercel" height="50" width="60" 
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg">
+  </div>
+</div><br>
+
+# 🏆 GitHub Trophies:
 
 <div align="center">
-  <a href="https://github.com/igorttosta">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorttosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorttosta&layout=compact&langs_count=7&theme=dracula"
-  />
-</div>
-<br>
-My stack:
-<div style="display: inline_block"><br>
-  <img align="center" alt="Javascript" height="50" width="60"
-    src="https://github.com/igorttosta/igorttosta/assets/84591929/b5b9f3e0-4a1c-43d2-873d-49dba9d59068"
-  >
-  <img align="center" alt="NodeJs" height="50" width="60"               
-    src="https://github.com/igorttosta/igorttosta/assets/84591929/b76afe5e-75d4-4c56-b6c3-142bef269c7ag"
-  >
-  <img align="center" alt="React" height="50" width="60" 
-     src="https://github.com/igorttosta/igorttosta/assets/84591929/d50a8667-7f06-47b6-acf5-792ad5533d1a"
-  >
-  <img align="center" alt="NodeJs" height="50" width="60"               
-    src="https://github.com/igorttosta/igorttosta/assets/84591929/db44abb1-9fbf-4224-9cc1-8cadbf2ebd28"
-  >
-  <img align="center" alt="Python" height="50" width="60" 
-     src="https://github.com/igorttosta/igorttosta/assets/84591929/f620e99a-8053-4ceb-ad03-de8f6034573a"
-  >
-  <img align="center" alt="MongoDB" height="50" width="60" 
-     src="https://github.com/igorttosta/igorttosta/assets/84591929/a417d332-b344-41f8-bd79-dbe81ad2c47f"
-  >
-  <img align="center" alt="Postgresql" height="50" width="60" 
-     src="https://github.com/igorttosta/igorttosta/assets/84591929/da58689e-6a1d-4e95-b46d-0e8cc26d5336"
-  >
+    <img height="180em" src="https://github-contributor-stats.vercel.app/api?username=igorttosta&limit=5&theme=dark&combine_all_yearly_contributions=true" style="margin-right: 10px;"/>
+    <img height="180em" src="https://github-profile-trophy.vercel.app/?username=igorttosta&theme=dark&no-frame=false&no-bg=false&margin-w=4" style="margin-right: 10px;"/>
 </div>
 
-  ##
- <div> 
-
-  Connect with me:
+# 🌐 Connect with me:
 
   <a href="https://www.linkedin.com/in/matos-igor-tosta/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
     target="_blank">
   </a> 
-</div>
