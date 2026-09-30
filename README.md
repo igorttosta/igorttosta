@@ -59,15 +59,16 @@ Desenvolvedor Fullstack com cerca de 4 anos de experiência construindo APIs, mi
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [**Portfólio**](https://github.com/igorttosta/portfolio) · [demo](https://portfolio-orpin-kappa-64.vercel.app) | Meu portfólio pessoal com experiências e projetos | Next.js, TypeScript, Tailwind |
+| [**Social Network**](https://github.com/igorttosta/Social-Network) | Rede social fullstack com notificações em tempo real: a API publica eventos no RabbitMQ e os entrega via Socket.IO | Node.js, Express, MongoDB, RabbitMQ, Socket.IO, React |
+| [**Kafka Connect**](https://github.com/igorttosta/Kafka-Connect) | Sincronização bidirecional entre dois PostgreSQL com modelos diferentes, via CDC | Kafka Connect, Debezium, ksqlDB, PostgreSQL |
+| [**Nosso Álbum**](https://github.com/igorttosta/Site-Presente) · [demo](https://site-presente-rust.vercel.app) | Álbum de fotos privado com trilha sonora do Spotify em cada foto | Next.js 16, Prisma, PostgreSQL, OAuth |
+| [**Point Control**](https://github.com/igorttosta/Point-Control) | API REST de controle de ponto com login via JWT e migrations versionadas | NestJS, TypeORM, PostgreSQL |
 | [**VetCare**](https://github.com/igorttosta/veterinary-web) · [demo](https://veterinary-web-psi.vercel.app) | Gestão de clínicas veterinárias: agendamentos, cadastro de pets e histórico médico | Next.js, TypeScript |
-| [**Point Control**](https://github.com/igorttosta/Point-Control) | API de registro de ponto com histórico de horas trabalhadas | NestJS, TypeScript |
-| [**Kafka Connect**](https://github.com/igorttosta/Kafka-Connect) | Convivência entre dois bancos de dados com Kafka Connect e ksqlDB | Kafka, ksqlDB, Docker |
-| [**Social Network**](https://github.com/igorttosta/Social-Network) | Rede social fullstack com perfis, posts, seguidores e comentários | JavaScript |
+| [**Portfólio**](https://github.com/igorttosta/portfolio) · [demo](https://itm-portfolio.vercel.app) | Meu portfólio pessoal com experiências e projetos | Next.js, TypeScript, Tailwind |
 
 ## 📫 Contato
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-orpin-kappa-64.vercel.app)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://itm-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/matos-igor-tosta/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matositosta@gmail.com)
 
