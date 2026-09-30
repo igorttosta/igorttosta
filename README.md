@@ -59,11 +59,11 @@ Desenvolvedor Fullstack com cerca de 4 anos de experiência construindo APIs, mi
 
 | Projeto | Descrição | Stack |
 |---|---|---|
+| [**Clínica Vet**](https://github.com/igorttosta/clinica-vet) | Plataforma de gestão para clínicas veterinárias: tutores, pets, agenda, prontuário e painel admin com permissões por perfil. Em desenvolvimento | Next.js, NestJS, PostgreSQL, React Native, monorepo |
 | [**Social Network**](https://github.com/igorttosta/Social-Network) | Rede social fullstack com notificações em tempo real: a API publica eventos no RabbitMQ e os entrega via Socket.IO | Node.js, Express, MongoDB, RabbitMQ, Socket.IO, React |
 | [**Kafka Connect**](https://github.com/igorttosta/Kafka-Connect) | Sincronização bidirecional entre dois PostgreSQL com modelos diferentes, via CDC | Kafka Connect, Debezium, ksqlDB, PostgreSQL |
 | [**Nosso Álbum**](https://github.com/igorttosta/Site-Presente) · [demo](https://site-presente-rust.vercel.app) | Álbum de fotos privado com trilha sonora do Spotify em cada foto | Next.js 16, Prisma, PostgreSQL, OAuth |
 | [**Point Control**](https://github.com/igorttosta/Point-Control) | API REST de controle de ponto com login via JWT e migrations versionadas | NestJS, TypeORM, PostgreSQL |
-| [**VetCare**](https://github.com/igorttosta/veterinary-web) · [demo](https://veterinary-web-psi.vercel.app) | Gestão de clínicas veterinárias: agendamentos, cadastro de pets e histórico médico | Next.js, TypeScript |
 | [**Portfólio**](https://github.com/igorttosta/portfolio) · [demo](https://itm-portfolio.vercel.app) | Meu portfólio pessoal com experiências e projetos | Next.js, TypeScript, Tailwind |
 
 ## 📫 Contato
