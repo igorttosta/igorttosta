@@ -1,53 +1,79 @@
-# 💫 About Me:
-👋 Hi, My name is Igor Tosta!
+# Olá, eu sou o Igor Tosta 👋
 
-- 💻 Software Engineer with over 3 years of experience in fullstack development, backend systems, and microservices architecture. Passionate about solving complex challenges and delivering high-quality solutions.
+Desenvolvedor Fullstack com cerca de 4 anos de experiência construindo APIs, microsserviços e interfaces web. Trabalho principalmente com **Node.js/NestJS**, **Java/Spring Boot** e **React/Next.js**, com foco em estabilidade, qualidade de código e entregas alinhadas ao negócio.
 
-- 🚀 Skilled in building robust and scalable applications using modern technologies and best practices.
+- 💼 Atualmente na **Yuzer**, mantendo e evoluindo um sistema de processamento de pedidos e o motor de precificação
+- 🏗️ Na **SysMap Solutions**, desenhei microsserviços conteinerizados com Spring Boot, Docker e Kubernetes, seguindo padrões TMForum e OpenAPI
+- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas pelo IFBA
+- 📍 Bahia, Brasil · aberto a oportunidades remotas
 
-- 🎯 Focused on enhancing user experience, improving system reliability, and maintaining code quality through testing and CI/CD processes.
+## 🛠️ Stack
 
-# 📊 GitHub Stats:
-<div align="center"><br>
-  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=igorttosta&theme=dark&hide_border=false" style="margin-right: 10px;"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorttosta&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="margin-left: 10px;"/>
+**Linguagens**
 
-  <div style="display: inline_block"><br>
-    <img align="center" alt="JavaScript" height="50" width="60" 
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img align="center" alt="TypeScript" height="50" width="60" 
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-    <img align="center" alt="React" height="50" width="60" 
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="NextJS" height="50" width="60" 
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-    <img align="center" alt="NestJS" height="50" width="60" 
-        src="https://nestjs.com/img/logo-small.svg">
-    <img align="center" alt="NodeJS" height="50" width="60" 
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="Express.js" height="50" width="60" 
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-    <img align="center" alt="Java" height="50" width="60" 
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" alt="AWS" height="50" width="60" 
-        src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
-    <img align="center" alt="Azure" height="50" width="60" 
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
-    <img align="center" alt="Vercel" height="50" width="60" 
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg">
-  </div>
-</div><br>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-# 🏆 GitHub Trophies:
+**Backend**
 
-<div align="center">
-    <img height="180em" src="https://github-contributor-stats.vercel.app/api?username=igorttosta&limit=5&theme=dark&combine_all_yearly_contributions=true" style="margin-right: 10px;"/>
-    <img height="180em" src="https://github-profile-trophy.vercel.app/?username=igorttosta&theme=dark&no-frame=false&no-bg=false&margin-w=4" style="margin-right: 10px;"/>
-</div>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
-# 🌐 Connect with me:
+**Frontend**
 
-  <a href="https://www.linkedin.com/in/matos-igor-tosta/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-    target="_blank">
-  </a> 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Bancos de dados**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Infra e DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+
+## 📊 Estatísticas
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/igorttosta/igorttosta/output/stats-dark.svg">
+  <img alt="Estatísticas no GitHub" src="https://raw.githubusercontent.com/igorttosta/igorttosta/output/stats.svg" width="49%">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/igorttosta/igorttosta/output/languages-dark.svg">
+  <img alt="Linguagens mais usadas" src="https://raw.githubusercontent.com/igorttosta/igorttosta/output/languages.svg" width="49%">
+</picture>
+</p>
+
+## 🚀 Projetos em destaque
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [**Portfólio**](https://github.com/igorttosta/portfolio) · [demo](https://portfolio-orpin-kappa-64.vercel.app) | Meu portfólio pessoal com experiências e projetos | Next.js, TypeScript, Tailwind |
+| [**VetCare**](https://github.com/igorttosta/veterinary-web) · [demo](https://veterinary-web-psi.vercel.app) | Gestão de clínicas veterinárias: agendamentos, cadastro de pets e histórico médico | Next.js, TypeScript |
+| [**Point Control**](https://github.com/igorttosta/Point-Control) | API de registro de ponto com histórico de horas trabalhadas | NestJS, TypeScript |
+| [**Kafka Connect**](https://github.com/igorttosta/Kafka-Connect) | Convivência entre dois bancos de dados com Kafka Connect e ksqlDB | Kafka, ksqlDB, Docker |
+| [**Social Network**](https://github.com/igorttosta/Social-Network) | Rede social fullstack com perfis, posts, seguidores e comentários | JavaScript |
+
+## 📫 Contato
+
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-orpin-kappa-64.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/matos-igor-tosta/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matositosta@gmail.com)
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/igorttosta/igorttosta/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/igorttosta/igorttosta/output/github-contribution-grid-snake.svg">
+</picture>
