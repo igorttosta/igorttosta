@@ -1,0 +1,53 @@
+name: Atualizar perfil
+
+# Gera as estatísticas e a cobrinha e publica tudo na branch "output",
+# de onde o README carrega as imagens.
+on:
+  schedule:
+    - cron: "0 */12 * * *" # a cada 12 horas
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atualizar-perfil
+  cancel-in-progress: true
+
+jobs:
+  gerar:
+    name: Gerar imagens do perfil
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Gerar estatísticas
+        run: node .github/scripts/generate-stats.mjs dist
+        env:
+          GITHUB_USER: ${{ github.repository_owner }}
+          # STATS_TOKEN é opcional: um token pessoal inclui repositórios privados nas estatísticas.
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN || github.token }}
+
+      - name: Gerar cobrinha
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publicar na branch output
+        working-directory: dist
+        run: |
+          git init -q -b output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -q -m "Atualizar imagens do perfil"
+          git push -q --force "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" output
