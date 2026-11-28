@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="236" viewBox="0 0 495 236" role="img" aria-label="Linguagens mais usadas">
+  <title>Linguagens mais usadas</title>
+  <rect x="0.5" y="0.5" width="494" height="235" rx="6" fill="#ffffff" stroke="#d0d7de"/>
+  <text x="25" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#0969da">Linguagens mais usadas</text>
+  <clipPath id="bar"><rect x="25" y="60" width="445" height="8" rx="4"/></clipPath>
+  <rect x="25" y="60" width="445" height="8" rx="4" fill="#eaeef2"/>
+  <g clip-path="url(#bar)">
+    <rect x="25.00" y="60" width="292.87" height="8" fill="#3178c6"/>
+    <rect x="317.87" y="60" width="71.76" height="8" fill="#f1e05a"/>
+    <rect x="389.64" y="60" width="44.85" height="8" fill="#663399"/>
+    <rect x="434.48" y="60" width="21.91" height="8" fill="#e34c26"/>
+    <rect x="456.39" y="60" width="12.14" height="8" fill="#41b883"/>
+    <rect x="468.53" y="60" width="0.97" height="8" fill="#384d54"/>
+  </g>
+  <circle cx="30" cy="102" r="5" fill="#3178c6"/>
+  <text x="41" y="106" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#1f2328">TypeScript <tspan fill="#59636e">65,8%</tspan></text>
+  <circle cx="265" cy="102" r="5" fill="#f1e05a"/>
+  <text x="276" y="106" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#1f2328">JavaScript <tspan fill="#59636e">16,1%</tspan></text>
+  <circle cx="30" cy="142" r="5" fill="#663399"/>
+  <text x="41" y="146" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#1f2328">CSS <tspan fill="#59636e">10,1%</tspan></text>
+  <circle cx="265" cy="142" r="5" fill="#e34c26"/>
+  <text x="276" y="146" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#1f2328">HTML <tspan fill="#59636e">4,9%</tspan></text>
+  <circle cx="30" cy="182" r="5" fill="#41b883"/>
+  <text x="41" y="186" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#1f2328">Vue <tspan fill="#59636e">2,7%</tspan></text>
+  <circle cx="265" cy="182" r="5" fill="#384d54"/>
+  <text x="276" y="186" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#1f2328">Dockerfile <tspan fill="#59636e">0,2%</tspan></text>
+</svg>
